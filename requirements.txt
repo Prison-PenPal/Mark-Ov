@@ -21,7 +21,7 @@ ddt==1.2.1
 decorator==4.4.1
 defusedxml==0.6.0
 dill==0.3.1.1
-Django==3.0.2
+Django==3.1.6
 dominate==2.4.0
 entrypoints==0.3
 enum34==1.1.6
