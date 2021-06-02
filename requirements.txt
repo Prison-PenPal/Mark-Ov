@@ -127,7 +127,7 @@ smmap2==2.0.5
 
 spinners==0.0.23
 
-urllib3==1.24.3
+urllib3==1.26.5
 utils==1.0.1
 
 webencodings==0.5.1
